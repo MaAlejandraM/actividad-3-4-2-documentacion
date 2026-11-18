@@ -1,0 +1,8 @@
+# Doxyfile configuration for Doxygen
+PROJECT_NAME           = "Ejemplo Python Flask"
+OUTPUT_DIRECTORY       = "docs"
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+GENERATE_HTML          = YES
+EXTRACT_ALL            = YES
+OPTIMIZE_OUTPUT_JAVA   = YES
